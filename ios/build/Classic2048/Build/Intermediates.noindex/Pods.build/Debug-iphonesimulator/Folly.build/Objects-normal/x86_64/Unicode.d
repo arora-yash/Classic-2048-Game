@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Unicode.cpp \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Unicode.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Conv.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/DoubleConversion/double-conversion/double-conversion.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/DoubleConversion/double-conversion/utils.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Demangle.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/FBString.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Portability.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/CPortability.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Traits.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Utility.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Expected.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Likely.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Optional.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Unit.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/Range.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/portability/String.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/CpuId.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Folly/folly/portability/Math.h

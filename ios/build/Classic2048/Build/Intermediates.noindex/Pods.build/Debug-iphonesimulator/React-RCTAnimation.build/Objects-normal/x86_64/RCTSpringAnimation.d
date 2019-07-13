@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/yash/Desktop/Java/June/Classic2048/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.m \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/yash/Desktop/Java/June/Classic2048/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/yash/Desktop/Java/June/Classic2048/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/yash/Desktop/Java/June/Classic2048/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/yash/Desktop/Java/June/Classic2048/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/yash/Desktop/Java/June/Classic2048/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/yash/Desktop/Java/June/Classic2048/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

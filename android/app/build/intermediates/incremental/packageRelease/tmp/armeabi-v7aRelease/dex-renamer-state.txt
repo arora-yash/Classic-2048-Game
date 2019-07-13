@@ -1,0 +1,4 @@
+#Fri Jul 12 19:02:14 IST 2019
+base.0=/Users/yash/Desktop/Java/June/Classic2048/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
