@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "matrix-js": "^1.4.0",
     "prop-types": "^15.7.2",
     "react": "16.8.6",
